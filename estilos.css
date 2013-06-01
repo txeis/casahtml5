@@ -1,0 +1,225 @@
+﻿body{
+	color:#FFFFFF;
+	font-family:Calibri,Helvetica,Arial,sans-serif;
+	background: url(img/cascada_lalarry_fondo.jpg) fixed no-repeat;
+	background-size:cover;
+	min-width:1250px;
+	font-size: 20px;
+	width:100%;
+	margin:0;
+}
+h1{
+	font-family: apple chancery,Monotype Corsiva;
+	font-size:60px;
+	color:black;
+	text-align:center;
+	text-shadow: 0.08em 0.03em rgba(16, 78, 139, 0.6);
+	margin:0;
+	word-spacing: 10px;
+}
+h2{
+	text-align:center;
+	font-size: 40px;
+	color: #66CC33;
+}
+h3{
+	text-align:left;
+	font-size: 30px;
+}
+#pestanas {
+   float:left;
+   width:100%;
+   line-height:normal;
+   font-size: 18px;
+   font-weight: bold;
+   display:block;
+}
+#pestanas ul {
+   margin:0;
+   padding:0;
+   list-style:none;
+}
+#pestanas li {
+   float:left;
+   margin:0 0.5% 0 0;
+   padding:0;
+}
+#pestanas a{
+   padding:3px 10px 2px;
+   display:block;
+   background: #3399FF;
+   color: #fff;
+   text-decoration: none;
+   padding-bottom: 4px;
+   border-radius:10px 10px 0px 0px;
+}
+#pestanas a:hover{
+   color: rgb(16,78,139);
+}
+#pestanas .activa a{
+   background: rgba(16,78,139,0.9);
+   padding-bottom: 5px;
+}
+#pestanas .activa a:hover{
+   color: #3399FF;
+}
+#pestanas .reserva a{
+	background-color: #FF9900;
+	color:black;
+}
+#pestanas .reserva a:hover{
+	color:white;
+}
+#contenedorpestanas{
+   background-color: rgba(16,78,139,0.9);
+   padding:10px 80px;
+   clear: both;
+   text-align: justify;
+   border-radius:0px 10px 10px 10px;
+   min-height:500px;
+   
+}	
+#contenedorpestanas .p{
+	text-align:justify;
+	position:relative;
+}
+.destacado{
+	font-size:30px;
+}
+#cuerpo{
+	padding:1% 8%;
+}
+#contenedorpestanas img{
+	position: relative;
+	size:auto; 
+	border-radius:10px;
+	box-shadow: 3px 3px 5px 5px black;
+}
+#contenedorpestanas a{
+	color: #33FFFF;
+}
+#pie{
+	background: rgba(0, 0, 0, 0.8);
+    border-radius:10px;
+    margin:2% 8% 0% 8%;
+	font-size:15px;
+	padding:0% 15%;
+	text-align:center;
+	word-spacing:1%;
+	color:white;
+	
+}
+#pie a{
+	color: #FF9900;
+	font-weight:bold;
+	font-size:100%;
+}
+.t{
+	text-align:center;
+	background: white;
+	border-color: #00FFFF;
+	color: #0099FF;
+}
+.t th{
+	background:#0099FF;
+	color:black;
+	padding:5px;
+	
+}
+.t td{
+	padding:5px;
+}
+.tabla{
+	position:relative;
+	padding-bottom:6%;
+}
+#contenedor{
+	min-width:1250px;
+	
+}
+#sinFormato{
+	clear:both;
+}
+#sinFormato td{
+	padding: 0.5em 2em;
+}
+header{
+	
+	background: url(img/fotocabeza.JPG);
+	background-size: 100% auto;
+   padding:2% 2%;
+   border-radius:10px;
+   margin:2% 8%;
+   box-shadow: 0px 0px 5px 5px black;
+}
+table.center {
+    margin-left:auto; 
+    margin-right:auto;
+    text-align:center;
+  }
+.strong{
+	color: orange;
+}
+#contact-form{
+	margin-left:40px;
+}
+#contact-form li{
+	padding:20px;
+}
+#contact-form input{
+	margin-left:40px;
+}
+#contact-form td{
+	padding:10px;
+	margin-left:0px;
+}
+#contact-form table{
+	padding:30px;
+}
+#translate img{
+	position: relative;
+	float:inherit;
+	margin-right:0px;
+	margin-bottom:0px;
+	size:auto; 
+	border-radius:none;
+	box-shadow: none;
+}
+#translate{
+	text-align:right;
+}
+.naranja{
+	color:orange !important;
+}
+.tablafotos img{
+	margin:20px !important;
+}
+#ppal{
+	height:300px;
+	position: relative;
+	float:right;
+	margin-left:40px;
+	margin-top:20px;
+	margin-bottom: 40px;
+}
+.foto{
+	height:130px;
+	width:180px;
+}
+#toprural-plaque{
+	position: relative;
+	float:left;
+	margin-right:40px;
+	margin-bottom: 20px;
+	margin-top:40px;
+}
+.cartel{
+	height: 200px;
+	position:relative;
+	margin-right:30px;
+	text-align:center;
+	
+}
+#alquilerCoches{
+	font-size:18px;
+}
