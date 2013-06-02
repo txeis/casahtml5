@@ -3,7 +3,6 @@
 	font-family:Calibri,Helvetica,Arial,sans-serif;
 	background: url(img/cascada_lalarry_fondo.jpg) fixed no-repeat;
 	background-size:cover;
-	min-width:1380px;
 	font-size: 20px;
 	width:100%;
 	margin:0;
@@ -92,6 +91,7 @@ h3{
 }
 #cuerpo{
 	padding:1% 8%;
+	min-width:1150px;
 }
 #contenedorpestanas img{
 	position: relative;
@@ -99,6 +99,11 @@ h3{
 	border-radius:10px;
 	box-shadow: 3px 3px 5px 5px black;
 }
+#toprural-opinions img{
+	border-radius:none !important;
+	box-shadow: none !important;
+}
+
 #contenedorpestanas a{
 	color: #33FFFF;
 }
@@ -107,10 +112,10 @@ h3{
     border-radius:10px;
     margin:2% 8% 0% 8%;
 	font-size:15px;
-	padding:0% 15%;
 	text-align:center;
 	word-spacing:1%;
 	color:white;
+	min-width:1150px;
 	
 }
 #pie a{
@@ -151,10 +156,11 @@ header{
 	
 	background: url(img/fotocabeza.JPG);
 	background-size: 100% auto;
-   padding:2% 2%;
+   padding:2% 0%;
    border-radius:10px;
    margin:2% 8%;
    box-shadow: 0px 0px 5px 5px black;
+   min-width:1150px;
 }
 table.center {
     margin-left:auto; 
@@ -226,4 +232,36 @@ table.center {
 }
 #alquilerCoches{
 	font-size:18px;
+}
+#toprural-opinions img{
+	border-radius:none !important;
+	box-shadow: none !important;
+}
+#toprural-opinions h2{
+	font-size:20px !important;
+}
+#toprural-opinions h1{
+	font-size:30px !important;
+	color:black;
+	color: #66CC33;
+	font-family:Calibri,Helvetica,Arial,sans-serif !important;
+	
+}
+#toprural-opinions hr{
+	margin-bottom: 20px;
+	color #66CC33:
+}
+#toprural-opinions li {
+    list-style: none outside none;
+}
+#toprural-opinions ul, #toprural-opinions li, #toprural-opinions h2, #toprural-opinions pre, #toprural-opinions p {
+    margin: 0;
+    padding: 0;
+}
+#toprural-opinions {
+    font-family: Calibri, Arial,Helvetica,sans-serif !important;
+    font-size: 20px !important;
+    font-weight: bold;
+    text-align:justify !important;
+    width:80% !important;
 }
