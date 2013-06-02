@@ -206,22 +206,13 @@ table.center {
 	color:orange !important;
 }
 .tablafotos{margin:auto;
-
-
-
-
-
-
-
-
-
-
-
-
 }
 .tablafotos img{
 	margin:20px !important;
-	
+}
+.center{
+	text-align:center;
+	margin:auto;
 }
 #ppal{
 	height:300px;
@@ -241,7 +232,7 @@ table.center {
 	float:left;
 	margin-right:40px;
 	margin-bottom: 20px;
-	margin-top:40px;
+	margin-top:30px;
 }
 .cartel{
 	height: 200px;
@@ -285,4 +276,8 @@ table.center {
     text-align:justify !important;
     width:80% !important;
 }
-
+aside{
+	display:inline-block;
+	float:left;
+	padding:30px;
+}
