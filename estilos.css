@@ -128,15 +128,19 @@ h3{
 	background: white;
 	border-color: #00FFFF;
 	color: #0099FF;
+	border-collapse:collapse;
+	margin: auto;
 }
+
 .t th{
 	background:#0099FF;
 	color:black;
 	padding:5px;
-	
+	border: 3px solid #0099FF;
 }
 .t td{
 	padding:5px;
+	border: 3px solid #0099FF;
 }
 .tabla{
 	position:relative;
@@ -201,8 +205,10 @@ table.center {
 .naranja{
 	color:orange !important;
 }
+.tablafotos{margin:auto;}
 .tablafotos img{
 	margin:20px !important;
+	
 }
 #ppal{
 	height:300px;
@@ -215,6 +221,7 @@ table.center {
 .foto{
 	height:130px;
 	width:180px;
+	
 }
 #toprural-plaque{
 	position: relative;
