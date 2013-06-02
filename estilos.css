@@ -205,7 +205,20 @@ table.center {
 .naranja{
 	color:orange !important;
 }
-.tablafotos{margin:auto;}
+.tablafotos{margin:auto;
+
+
+
+
+
+
+
+
+
+
+
+
+}
 .tablafotos img{
 	margin:20px !important;
 	
@@ -272,3 +285,4 @@ table.center {
     text-align:justify !important;
     width:80% !important;
 }
+
