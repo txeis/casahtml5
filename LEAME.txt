@@ -36,8 +36,20 @@ Microdata
 ***********
 He incluido microdata en todos los footer y en la página de eventos.
 
+
 Sitemap
 *********
+sitemap.xml creado y validado.
 
-sitemap.xml creado y validado
+Como subirlo a un servidor
+*****************************
+
+# Contratar un servicio de hosting 
+# Descargar e instalar un cliente FTP
+# Conectar desde el cliente FTP a la cuenta que nos proporciona
+el servicio de hosting
+# transferir los ficheros de la pagina web a la raiz de nuestra cuenta en el servidor
+
+* A tener en cuenta: ha de existir un index.html como página inicial
+
 
