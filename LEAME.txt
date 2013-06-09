@@ -1,0 +1,43 @@
+PAGINA WEB
+============
+Idoia Castilla
+----------------
+
+Introducción:
+*****************
+
+* Comencé está página en Enero, para sustituir la página que mi madre
+tenia contratada para su negocio, que le costaba 200 euros al año.
+
+* La hice en html y sin muchos conocimientos, ahora la estoy pasando a html5,
+intentando añadir todas las caracteristicas que se piden en la evaluación.
+
+Validación:
+***************
+
+* El error:  "Bad value google-translate-customization for attribute name on element meta: 
+Keyword google-translate-customization is not registered." es un falso positivo que aparece en todas las páginas.
+
+* Errores de validación en la página "Dónde Estamos" son debidos al código proporcionado por google
+para incrustar un mapa de google maps, al igual que en el anterior caso no he visto solución.
+
+# Index: validado html5 OK
+# Características y servicios: validado html5 OK
+# Dónde estamos: validado html5 OK
+# Qué hacer: validado html5 OK
+# Eventos: validado html5 OK
+# Tarifas: validado html5 OK
+# Ofertas: validado html5 OK
+# Fotos: validado html5 OK
+# Opiniones: validado html5 OK
+# Contacto y Reservas: validado html5 OK
+
+Microdata
+***********
+He incluido microdata en todos los footer y en la página de eventos.
+
+Sitemap
+*********
+
+sitemap.xml creado y validado
+
